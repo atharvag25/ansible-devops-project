@@ -1,0 +1,4 @@
+*.pem
+.env
+*.retry
+__pycache__/
